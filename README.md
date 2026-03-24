@@ -73,10 +73,10 @@ Responsive CSS: Media queries for all devices
 
 ## Technologies Used
 
-HTML5
-CSS3
-JavaScript (Vanilla JS)
-Git & GitHub
+- HTML5
+- CSS3
+- JavaScript (Vanilla JS)
+- Git & GitHub
 
 ---
 
